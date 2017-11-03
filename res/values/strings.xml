@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8308043775744607/3159787798</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
